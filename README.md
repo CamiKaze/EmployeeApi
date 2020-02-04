@@ -11,4 +11,8 @@ Configure routing, URL paths, and return values.
 Call the web API with Postman.
 
 
-.Net 3.1
+.Net CORE 3.1
+
+C#
+
+WEB API
